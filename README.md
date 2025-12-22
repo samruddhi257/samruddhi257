@@ -1,8 +1,8 @@
 # Hi! I am Samruddhi
 
-I’m **Samruddhi Shinde**, an undergraduate student in **Energy Science and Engineering**, who somehow wandered from thermodynamics and energy systems into the fascinating world of **AI/ML and Data Science**.
+I’m **Samruddhi Shinde**, an undergraduate student in **Energy Science and Engineering**, who found her way from thermodynamics and energy systems into the fascinating world of **AI/ML and Data Science**.
 
-Between equations, datasets, and coffee-fueled curiosity, I enjoy building models, exploring patterns in data, and figuring out how intelligence can be used to solve real-world problems
+Between equations, datasets, and coffee-fueled curiosity, I enjoy building models, exploring patterns in data, and figuring out how intelligence can be used to solve real-world problems.
 
 ## Things I Work With
 
