@@ -51,7 +51,7 @@ I’m still figuring things out, learning a lot, breaking things occasionally, a
   <a href="https://www.linkedin.com/in/samruddhi-shinde-274821284/">
     <img src="https://img.icons8.com/color/48/linkedin.png" width="44"/>
   </a>
-  <a href="https://www.instagram.com/sam_riddhi___shinde_07/">
+  <a href="https://www.instagram.com/samriddhi__shinde/">
     <img src="https://img.icons8.com/color/48/instagram-new--v1.png" width="44"/>
   </a>
 </p>
